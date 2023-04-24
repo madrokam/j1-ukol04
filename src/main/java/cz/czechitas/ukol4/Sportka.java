@@ -16,7 +16,7 @@ public class Sportka {
     //TODO naplnit osudí čísly 1 až 49.
 
 
-for(int i=0; i<=49;i++){this.osudi.add(i);}
+for(int i=1; i<=49;i++){this.osudi.add(i);}
 
 
   }
